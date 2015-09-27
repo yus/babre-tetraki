@@ -1,2 +1,2 @@
 # babre-tetraki
-Babre Tetraki, netsuke hat meows, imaginary to move the pixels. 
+Babre Tetraki, netsuke that meows, imaginary to move the pixels. 
